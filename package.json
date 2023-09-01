@@ -14,7 +14,8 @@
     "fractional": "^1.0.0",
     "fracty": "^1.0.11",
     "parcel": "^2.9.3",
-    "regenerator-runtime": "^0.14.0"
+    "regenerator-runtime": "^0.14.0",
+    "sass": "^1.66.1"
   },
   "devDependencies": {
     "@parcel/transformer-sass": "^2.9.3"
